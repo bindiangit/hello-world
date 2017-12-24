@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib/filterbuilder.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/htmllexer.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/htmlparser.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/junit.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sax2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/thumbelina.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/myproject/eclipse_work/common/classes12.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
